@@ -9,8 +9,7 @@ This is a mod for **The Long Dark** by Hinterland Games Studio, Inc. It allows t
 The Long Dark Modding Server (Discord)
 
 ## Extra Special Thanks
-MikeyPdog is the original creator of CustomWhiteout.
-ds5678 for previously maintaining the mod.
+MikeyPdog is the original creator of CustomWhiteout.  And to ds5678 for previously maintaining the mod.
 
 ##
 If you enjoy using this mod, feel free to buy me a cup of coffee.  Thank you!
