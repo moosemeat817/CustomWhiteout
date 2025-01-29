@@ -6,6 +6,8 @@ This is a mod for **The Long Dark** by Hinterland Games Studio, Inc. It allows t
 <img src="https://github.com/moosemeat817/images/blob/main/CustomWhiteout.jpg" width="80%">
 
 Note: The challenge text will always say Quonset Gas Station and you must return there to fully complete the challenge regardless of which location you select to stockpile at. 
+##
+Added some more items and locations to choose from.
 
 ## Special Thanks
 The Long Dark Modding Server (Discord)
