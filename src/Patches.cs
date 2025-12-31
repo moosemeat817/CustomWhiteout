@@ -64,8 +64,8 @@ namespace CustomWhiteout
 
                 for (int i = 0; i < instance.requiredItemsList.value.Count; i++)
                 {
-                    Implementation.Log("Required items: " + instance.requiredItemsList.value[i].name + " (" + instance.requiredItemsList.value[i].amount + ")");
-                    Implementation.Log("Header: " + instance.requiredItemsHeaderList[i]);
+                    MelonLogger.Msg("Required items: " + instance.requiredItemsList.value[i].name + " (" + instance.requiredItemsList.value[i].amount + ")");
+                    MelonLogger.Msg("Header: " + instance.requiredItemsHeaderList[i]);
                 }
 
                 instance.requiredItemsList.value.Clear();

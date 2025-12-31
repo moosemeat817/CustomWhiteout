@@ -12,13 +12,11 @@ namespace CustomWhiteout
     {
         public override void OnApplicationStart()
         {
-            base.OnApplicationStart();
+            OnInitializeMelon();
             Debug.Log($"[{Info.Name}] Version {Info.Version} loaded!");
             Settings.OnLoad();
             Dictionaries.PopulateDictionaries();
         }
-        public static void Log(string message) => MelonLogger.Log(message);
-        public static void Log(string message,params object[] parameters) => MelonLogger.Log(message, parameters);
     }
 
     

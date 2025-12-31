@@ -33,7 +33,7 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("3.0.0")]
-[assembly: AssemblyFileVersion("3.0.0")]
-[assembly: MelonInfo(typeof(CustomWhiteout.Implementation), "CustomWhiteout", "3.0.0", "MikeyPdog, ds5678, moosemeat")]
+[assembly: AssemblyVersion("3.1.0")]
+[assembly: AssemblyFileVersion("3.1.0")]
+[assembly: MelonInfo(typeof(CustomWhiteout.Implementation), "CustomWhiteout", "3.1.0", "MikeyPdog, ds5678, moosemeat")]
 [assembly: MelonGame("Hinterland", "TheLongDark")]
